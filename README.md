@@ -1,9 +1,9 @@
-# UX Portfolio
+# Avery's UX Portfolio
 
 
-## UX Team Project
+## Avery's UX Team Project
 
 
-## UX Journal
+## Avery's UX Journal
 
 [Read about my experience with Bash](j01/)
