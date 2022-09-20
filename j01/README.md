@@ -1,1 +1,2 @@
-UX Jounral entries describe various interactions with technology. 
+# UX Jounral 
+journal entries describe various interactions with technology. 
