@@ -6,7 +6,7 @@ Hi, I'm Avery. I love working on programming problems, designing video games, an
 
 <img src="https://user-images.githubusercontent.com/79026876/186275734-0294a9cb-0164-4e80-be3b-eeb9e852d69f.jpeg" alt="SOM" width="300"/>
 
-# User Experiences with Technology Blog
+# Blog: User Experiences with Technology 
 
 [Read here!](journal/)
 
