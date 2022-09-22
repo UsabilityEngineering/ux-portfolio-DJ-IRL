@@ -9,4 +9,6 @@ Hi, I'm Avery. I love working on programming problems, designing video games, an
 
 <img src=https://user-images.githubusercontent.com/79026876/186276069-d77ca9a5-2e23-47f1-b665-3aad8c4f8087.png alt="perspectives" width="350"/>
 
-## Avery's UX Team Project
+## Student Scheduler
+
+I am currently working with a team on engineering a new and improved scheduling tool for students looking to enroll in classes. 
