@@ -1,5 +1,5 @@
 ![IMG_2940](https://user-images.githubusercontent.com/79026876/186276418-8e1dc41d-3982-46b8-8ce1-75ae7b50f6bf.jpeg)
-<img source="https://user-images.githubusercontent.com/79026876/186275734-0294a9cb-0164-4e80-be3b-eeb9e852d69f.jpeg" alt="SOM" width="200"/>
+<img src="https://user-images.githubusercontent.com/79026876/186275734-0294a9cb-0164-4e80-be3b-eeb9e852d69f.jpeg" alt="SOM" width="200"/>
 ![secretOfMana](https://user-images.githubusercontent.com/79026876/186275734-0294a9cb-0164-4e80-be3b-eeb9e852d69f.jpeg)
 
 # Avery's UX Portfolio
