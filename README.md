@@ -15,4 +15,4 @@ Hi, I'm Avery. I love working on programming problems, designing video games, an
 
 ![IMG_3182](https://user-images.githubusercontent.com/79026876/186276227-7a736d65-afed-4a1c-ad8e-631cc8f96a76.jpeg)
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with Bash](journal/)
