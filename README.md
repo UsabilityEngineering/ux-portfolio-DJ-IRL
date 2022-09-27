@@ -1,4 +1,4 @@
-<img src=https://user-images.githubusercontent.com/79026876/186276418-8e1dc41d-3982-46b8-8ce1-75ae7b50f6bf.jpeg alt="Avery's Pic" width="450"/>
+<img src="https://user-images.githubusercontent.com/79026876/186276418-8e1dc41d-3982-46b8-8ce1-75ae7b50f6bf.jpeg" alt="Avery's Pic" width="450"/>
 
 # About Me
 
