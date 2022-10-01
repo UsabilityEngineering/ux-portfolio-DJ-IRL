@@ -15,6 +15,4 @@ Get Mobile - a mobile app for ordering food at Chico State
 
 Playdate SDK - a game development kit for the Playdate handheld
 
-Github Copilot - a code completion tool
-
 Student Scheduler - Chico State's student scheduling tool
