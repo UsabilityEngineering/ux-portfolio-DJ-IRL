@@ -12,7 +12,7 @@ I hope to combine all of these someday in my life's work.
 
 [Read here!](journal/) <br>
 
-<img src=https://user-images.githubusercontent.com/79026876/186276069-d77ca9a5-2e23-47f1-b665-3aad8c4f8087.png alt="perspectives" width="350"/>
+<img src="https://user-images.githubusercontent.com/79026876/186276069-d77ca9a5-2e23-47f1-b665-3aad8c4f8087.png" width="350"/>
 
 ## Student Scheduler Project <br>
 
