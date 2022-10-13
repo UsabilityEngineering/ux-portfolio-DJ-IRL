@@ -1,6 +1,6 @@
-# Better Late Than Never
-## Remote Work for Musicians
-## c/o Avery Pound
+<h1>Better Late Than Never</h1>
+<h2> Remote Work for Musicians
+c/o Avery Pound</h2>
 
 I am half of the musical duo **iO**, with my friend Cooper. We started making music together in 2010. 
 For much of our career we have lived in the same city, often in the same house. 
@@ -8,7 +8,7 @@ This made playing and recording music easy, as we could meet up often in real li
 Currently, there are 140 miles between us, and we meet up to play music more consistently than 
 when we lived together. We meet remotely, to play what I carefully describe as *psuedo-live* music. 
 
-### Music and Latency ⏰
+<h3>Music and Latency ⏰ </h3>
 *Latency* is the time is takes for some data to get from a source to its destination. 
 In an average-to-small room, the latency from when a clap occurs and when your brain perceives the clap
 is virtually nonexistent. You hear it so close to the time it happened that if someone repeats clapping
@@ -32,7 +32,9 @@ Every step of this process takes time, and the more time you add the worse the p
 Most people can detect latency between of about 15-20 milliseconds. 
 Performers, musicians, and audiophiles can detect latency fine as 5-10 milliseconds. 
 
-### Better Late Than Never 💡
+If you want to dive deeper into this topic, [here's a great resource](https://sonobus.net/sonobus_userguide.html#A-bit-of-Physics-Why-can’t-I-jam-with-my-friend-in-Sydney)
+
+<h3> Better Late Than Never 💡</h3>
 
 When there is so little room for error, one can understand why we did not seriously approach
 the task of playing music live remotely (over the internet) for several years. 
@@ -54,11 +56,15 @@ I wanted live audio as a track in my project.
 I had wanted this before, but I was inexplicably confident that I could receive live audio,
 with whatever latency, and *make it work.*
 
+I realized if the audio source was at a consistent BPM, then I could 
+adapt my local project to it regardless of latency. 
+With that working, I can hear a 
+
 ### All Aboard the SonoBus 🚌
 After trying a handful of competitors, we discovered SonoBus. 
-"SonoBus is an easy to use application for streaming high-quality, 
-low-latency peer-to-peer audio between devices over the internet 
-or a local network." - [SonoBus](https://sonobus.net)
+>"SonoBus is an easy to use application for streaming high-quality, 
+	low-latency peer-to-peer audio between devices over the internet 
+	or a local network." - [SonoBus](https://sonobus.net)
 
 This program was easy to install, and came with a user-friendly wizard. 
 Unexpectedly, this is a rare example of free software that runs well on 
