@@ -1,6 +1,8 @@
 # UX Journal 
 
-## started 2022
+[SonoBus and Defeating Audio Latency](sonobus.md)
+
+-- started 2022 -- 
 
 journal entries describe various interactions with technology. 
 
