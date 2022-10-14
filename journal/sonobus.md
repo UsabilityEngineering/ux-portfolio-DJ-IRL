@@ -65,7 +65,7 @@ into the software we use to accomplish the task.
 
 Choosing a BPM between the two parties is vital. 
 Cooper initiates the session by starting a [loop](https://en.wikipedia.org/wiki/Loop_(music)) from within his Ableton project. 
-He mutes the audio from his side, and streams the audio to me. 
+He mutes the audio on his side, and streams the audio to me. 
 I then start a loop, with it synchronized to his. 
 Now I can hear any music either of us make, performing in time together. 
 I then gather all of this audio onto one track, and send that back to Cooper. 
@@ -78,11 +78,61 @@ to work on music remotely, and *kinda* live.
 
 <h3>All Aboard the SonoBus 🚌</h3>
 After trying a handful of competitors, we discovered SonoBus.<br> <br>
-> <q>SonoBus is an easy to use application for streaming high-quality, <br>
+ <q>SonoBus is an easy to use application for streaming high-quality, <br>
 	low-latency peer-to-peer audio between devices over the internet <br>
-	or a local network.</q> - [SonoBus](https://sonobus.net)  <br>
+	or a local network.</q> - [SonoBus](https://sonobus.net) 
 <br>
+
 This program was easy to install, and came with a user-friendly wizard. 
 Unexpectedly, this is a rare example of free software that runs well on 
-Mac's new M-series processor. 
+Mac's new M-series processors. 
+
+Upon opening the SonoBus software from within Ableton, we see this window. 
+
+![sonobusFIrstScreen](https://user-images.githubusercontent.com/79026876/195743496-072aed65-0871-44f0-82f0-b5b936962877.jpg)
+
+
+The "Press Connect button to start" is a little commanding, but informative. 
+The "Please use headphones if you are using a microphone!" is a good warning. 
+Cooper saw this and switched from monitoring audio on speakers to headphones. 
+This reduces (hopefully eliminates) the possibility of *feedback,* a noisy and common problem.
+
+In addition to the comforting text, there are some familiar symbols around the interface. 
+From the bottom left to the bottom right, I was able to correctly assume the functionality: <br>
+- microphone: this toggles muting my inputs
+- some people with radiating lines: this let me toggle muting other people in the session
+- metronome: useful for synchronizing projects
+- 3 vertical dots: metronome settings
+- red circle: the universal symbol for "record"
+- file folder: this lets you access and share files from your local drive with everyone in the session
+- FX: add sound effects to audio you are broadcasting 
+- Out Level: Adjust and visually monitor the composite output level in decibels
+
+--- 
+![journalConnectScreen](https://user-images.githubusercontent.com/79026876/195743585-66ada5c9-61dc-48d2-af1c-d113109b1d04.jpg)
+
+After clicking on "Connect," we see this page. 
+A simple interface that does not ask much of the user. 
+There's some more details in areas where you might want them, 
+but 
+
+--- 
+![journalInSession](https://user-images.githubusercontent.com/79026876/195743610-a1c8c646-987a-45ab-aa91-42e339d332d5.jpg)
+
+
+Such simple, and great design in some places. 
+I'm a very technical person, 
+I am a computer science student at Chico State. 
+I will struggle with a difficult program for a long time,
+tinkering and trying to get it to work exactly how I want. <br>
+Cooper thinks technology often gets in the way of making music, 
+and has banished many programs to the trash bin which do not
+meet his high standards of usability. 
+
+SonoBus passes all our tests, and even offered some features we were not 
+seeking out, but really benefited from. 
+
+Most importantly, it's intuitive interface meant that within a half-hour
+of downloading the program on two separate operating systems 
+we were jamming in rooms 140 miles apart. 
 
