@@ -119,16 +119,39 @@ that I often don't read any of them and just get slightly annoyed.
 I appreciate the respect of the user SonoBus illustrates in their no-nonsense initiation into the program. 
 
 --- 
+
 ![journalConnectScreen](https://user-images.githubusercontent.com/79026876/195743585-66ada5c9-61dc-48d2-af1c-d113109b1d04.jpg)
 
 After clicking on "Connect," we see this page. 
 A simple interface that does not ask much of the user. 
 There's some more details in areas where you might want them, 
-but 
+but overall the process of connecting to a room was as simple as it looks. 
+Decide on a room name, and all parties just type it in with a unique name
+they'd like to appear as. 
 
 --- 
+
 ![journalInSession](https://user-images.githubusercontent.com/79026876/195743610-a1c8c646-987a-45ab-aa91-42e339d332d5.jpg)
 
+After connecting you get more options but things continue to be quite simple. 
+Most of the controls control what I am sending, which makes sense. 
+I have limited control over what I hear from others, 
+but I cannot change what they broadcast. 
+
+Once in session, it was easy to work. 
+In about an hour we had a good draft of a new song. 
+We used the "record" button to capture this audio. 
+It's a little quiet so I think we can fix that easily, 
+other than that it is great audio quality. 
+There are shockingly no audio-dropouts
+even though it's recorded after traversing 
+several networks. 
+
+[Here is the best recording we got of the jam.](https://soundcloud.com/dj_in_real_life/io-2022-10-05-230133/s-QLiVcB1deaP?si=293844a07b6e4e0e9f5da20b66cf05cf&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) <br>
+This was played live, using the method detailed above. 
+
+
+---
 
 Such simple, and great design in some places. 
 I'm a very technical person, 
