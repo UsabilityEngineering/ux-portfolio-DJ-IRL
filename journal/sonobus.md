@@ -78,7 +78,7 @@ to work on music remotely, and *kinda* live.
 
 <h3>All Aboard the SonoBus 🚌</h3>
 After trying a handful of competitors, we discovered SonoBus.<br> 
-<q>SonoBus is an easy to use application for streaming high-quality, <br>
+> <q>SonoBus is an easy to use application for streaming high-quality, <br>
 	low-latency peer-to-peer audio between devices over the internet <br>
 	or a local network.</q> - [SonoBus](https://sonobus.net)  <br>
 
