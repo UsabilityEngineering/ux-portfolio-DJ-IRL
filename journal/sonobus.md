@@ -148,8 +148,16 @@ even though it's recorded after traversing
 several networks. 
 
 [Here is the best recording we got of the jam.](https://soundcloud.com/dj_in_real_life/io-2022-10-05-230133/s-QLiVcB1deaP?si=293844a07b6e4e0e9f5da20b66cf05cf&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) <br>
-This was played live, using the method detailed above. 
 
+This was played live, using the method detailed above. 
+It is vastly more varied than the drafts we would end up with 
+using our previous process of passing files back and forth. 
+When passing files and working individually musical passages came out 
+much flatter. In this recording, you can hear little mistakes and 
+you can hear interesting ideas come through _on the fly_.
+While it can get messy, this is so much fun and begets some of our best ideas. 
+We have always loved improvising together, it was foundational for us.
+This way we can at least get some cool version of that, no matter the distance. 
 
 ---
 
