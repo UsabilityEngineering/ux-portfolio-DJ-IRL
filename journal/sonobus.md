@@ -6,7 +6,7 @@ I am half of the musical duo **iO**, with my friend Cooper. We started making mu
 For much of our career we have lived in the same city, often in the same house. 
 This made playing and recording music easy, as we could meet up often in real life.
 Currently, there are 140 miles between us, and we meet up to play music more consistently than 
-when we lived together. We meet remotely, to play what I carefully describe as *psuedo-live* music. 
+when we lived together. We meet remotely, to play what I carefully describe as *pseudo-live* music. 
 
 <h3>Music and Latency ⏰ </h3>
 *Latency* is the time is takes for some data to get from a source to its destination. 
@@ -56,15 +56,31 @@ I wanted live audio as a track in my project.
 I had wanted this before, but I was inexplicably confident that I could receive live audio,
 with whatever latency, and *make it work.*
 
-I realized if the audio source was at a consistent BPM, then I could 
-adapt my local project to it regardless of latency. 
-With that working, I can hear a 
+<h3>We're Jammin' 🎶</h3>
+After many naive approaches, we have gotten somewhat adept at the process.
+We have found a handful of configurations for achieving useful results. 
+I will focus on just one, used in a recent successful pseudo-live session.
+The audio path is unexpectedly confusing, so I will explain it before going
+into the software we use to accomplish the task.
 
-### All Aboard the SonoBus 🚌
-After trying a handful of competitors, we discovered SonoBus. 
->"SonoBus is an easy to use application for streaming high-quality, 
-	low-latency peer-to-peer audio between devices over the internet 
-	or a local network." - [SonoBus](https://sonobus.net)
+Choosing a BPM between the two parties is vital. 
+Cooper initiates the session by starting a [loop](https://en.wikipedia.org/wiki/Loop_(music)) from within his Ableton project. 
+He mutes the audio from his side, and streams the audio to me. 
+I then start a loop, with it synchronized to his. 
+Now I can hear any music either of us make, performing in time together. 
+I then gather all of this audio onto one track, and send that back to Cooper. 
+Now Cooper can finally hear audio. 
+
+While these loops stay in time, we can both make changes within our sequences 
+and we will both hear those changes play in time together. 
+It has it's limitations, but this is a great way for an electronic duo
+to work on music remotely, and *kinda* live.
+
+<h3>All Aboard the SonoBus 🚌</h3>
+After trying a handful of competitors, we discovered SonoBus.<br> 
+<q>SonoBus is an easy to use application for streaming high-quality, <br>
+	low-latency peer-to-peer audio between devices over the internet <br>
+	or a local network.</q> - [SonoBus](https://sonobus.net)  <br>
 
 This program was easy to install, and came with a user-friendly wizard. 
 Unexpectedly, this is a rare example of free software that runs well on 
