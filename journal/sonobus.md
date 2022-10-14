@@ -97,6 +97,8 @@ The "Please use headphones if you are using a microphone!" is a good warning.
 Cooper saw this and switched from monitoring audio on speakers to headphones. 
 This reduces (hopefully eliminates) the possibility of *feedback,* a noisy and common problem.
 
+![journalBotLeft2Right](https://user-images.githubusercontent.com/79026876/195744247-ba43d2ba-3b15-4ed5-92b8-5fd7ae5c7338.jpg)
+
 In addition to the comforting text, there are some familiar symbols around the interface. 
 From the bottom left to the bottom right, I was able to correctly assume the functionality: <br>
 - microphone: this toggles muting my inputs
@@ -107,6 +109,14 @@ From the bottom left to the bottom right, I was able to correctly assume the fun
 - file folder: this lets you access and share files from your local drive with everyone in the session
 - FX: add sound effects to audio you are broadcasting 
 - Out Level: Adjust and visually monitor the composite output level in decibels
+
+This is the first thing you see no matter how many times you've opened the app.
+It's not a tutorial or anything, you are just right in the action. 
+I like this. I think over-tutorializing the user works against good design. 
+When I open up a new Adobe product, I get so many little pop-ups telling me what to do
+that I often don't read any of them and just get slightly annoyed. 
+
+I appreciate the respect of the user SonoBus illustrates in their no-nonsense initiation into the program. 
 
 --- 
 ![journalConnectScreen](https://user-images.githubusercontent.com/79026876/195743585-66ada5c9-61dc-48d2-af1c-d113109b1d04.jpg)
