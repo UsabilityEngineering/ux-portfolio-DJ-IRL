@@ -4,8 +4,6 @@
 
 [AI Art and the Strange, New Normal](ai_art.md)
 
-journal entries describe various interactions with technology. 
-
 ## Future Entry Ideas
 
 Obsidian - a note taking app
