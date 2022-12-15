@@ -2,6 +2,8 @@
 
 [SonoBus and Defeating Audio Latency](sonobus.md)
 
+[AI Art and the Strange, New Normal](ai_art)
+
 -- started 2022 -- 
 
 journal entries describe various interactions with technology. 
