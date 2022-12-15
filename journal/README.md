@@ -4,14 +4,11 @@
 
 [AI Art and the Strange, New Normal](ai_art.md)
 
--- started 2022 -- 
-
 journal entries describe various interactions with technology. 
 
 ## Future Entry Ideas
 
 Obsidian - a note taking app
-
 
 DMV - changing my address with the DMV 
 
