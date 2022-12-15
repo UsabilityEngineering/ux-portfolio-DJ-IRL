@@ -2,7 +2,7 @@
 
 [SonoBus and Defeating Audio Latency](sonobus.md)
 
-[AI Art and the Strange, New Normal](ai_art)
+[AI Art and the Strange, New Normal](ai_art.md)
 
 -- started 2022 -- 
 
